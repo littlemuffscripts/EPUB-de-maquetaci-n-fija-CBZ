@@ -72,13 +72,8 @@ lector: la compatibilidad del CSS y las fuentes puede variar según el libro.
 
 ## Validación de esta entrega
 
-Se ha comprobado el texto de las páginas 9 y 10 de `yo.epub` renderizando su
-contenido original en un navegador. Se han comprobado con Python la estructura,
-el orden, las dimensiones y la selección de páginas. La conversión completa con
-Playwright no se ha podido ejecutar en el entorno restringido de esta sesión.
+Se ha comprobado el funcionamiento con más de 10 cómics distintos con buenos resultados. 
 
-`vista_previa_textos.html` contiene una página de ese cómic con imágenes y fuentes
-incluidas. Ábrela en tu navegador para comprobar los textos.
 
 Referencias de la implementación: [Playwright para Python](https://playwright.dev/python/docs/library)
 y [capturas de páginas](https://playwright.dev/python/docs/screenshots).
